@@ -157,9 +157,12 @@ right: 0;
   .slider{
       width: 350px;
   }
+  .mission-txt{
+    padding-right: 10px;
+  }
   #para1{
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 5px;
   }
   #who {
     display: flex;
